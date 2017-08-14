@@ -116,9 +116,18 @@
 }
 
 .contact-list,
-.social-media-list {
+{
   list-style: none;
   margin-left: 0;
+}
+
+.social-media-list {
+  margin-left: 0;
+  list-style: none;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+  columns: 2;
+  list-style-position: inside;
 }
 
 .footer-col-wrapper {

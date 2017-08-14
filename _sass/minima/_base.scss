@@ -65,7 +65,12 @@ figcaption {
 /**
  * Lists
  */
-ul, ol {
+ul {
+  margin-left: $spacing-unit;
+  display: inline-block;
+}
+
+ol {
   margin-left: $spacing-unit;
 }
 
@@ -207,9 +212,10 @@ pre {
 .social-media-list {
   .icon {
     padding-right: 5px;
+    padding-top: 5px;
   }
 
   li + li {
-    padding-top: 5px;
+    padding-top: 0px;
   }
 }
