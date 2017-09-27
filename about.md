@@ -4,4 +4,4 @@ title: About
 permalink: /about
 ---
 
-Yeah... currently nothing yet...
+Hi, My name is Yitian Jia, here is my [résumé](/resume_eng.html).
