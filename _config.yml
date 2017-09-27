@@ -9,6 +9,11 @@ github_username: ytjia
 linkedin_username: ytjia
 instagram_username: ytjia
 
+disqus:
+  shortname: TLinger
+
+google_analytics: UA-107135799-1
+
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
